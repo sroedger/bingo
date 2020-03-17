@@ -6,6 +6,6 @@ An Excel workbook with a few macros to randomly generate a bingo card. New items
 
 Options in worbook were selected from some conference call bingo memes.
 
-Update: Apparently MAC does not have a Dictionary object which weird. MAC safe versions thanks to this library https://github.com/VBA-tools/VBA-Dictionary.
+Update: Apparently MAC does not have a Dictionary object which is weird. MAC safe version thanks to this library https://github.com/VBA-tools/VBA-Dictionary.
 
 ![](Bingo.gif)
